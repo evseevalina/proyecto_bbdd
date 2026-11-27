@@ -1,10 +1,10 @@
-### Proyecto de Base de Datos Relacional
+## Proyecto de Base de Datos Relacional
 
-#### Objetivo
+### Objetivo
 
 Diseñar y crear una base de datos relacional para gestionar la información de los alumnos, profesores, clases, proyectos y evaluaciones de una escuela de bootcamps.
 
-#### Desarrollo del proyecto
+### Desarrollo del proyecto
 
 - Análisis de los cinco archivos CSV originales.
 - Normalización de los datos hasta la tercera forma normal (3FN).
@@ -14,7 +14,7 @@ Diseñar y crear una base de datos relacional para gestionar la información de 
 - Alojamiento de la base de datos en Render.
 - Comprobación del funcionamiento mediante consultas SQL.
 
-#### Tecnologías utilizadas
+### Tecnologías utilizadas
 
 - Python
 - Pandas
@@ -25,6 +25,6 @@ Diseñar y crear una base de datos relacional para gestionar la información de 
 - Jupyter Notebook
 - Git y GitHub
 
-#### Resultado final
+### Resultado final
 
 Base de datos relacional formada por nueve tablas y 352 registros, accesible de forma remota y preparada para incorporar nuevos datos.
