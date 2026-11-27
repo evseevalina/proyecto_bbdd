@@ -1,4 +1,3 @@
-# proyecto_bbdd
 ### Proyecto de Base de Datos Relacional
 
 #### Objetivo
